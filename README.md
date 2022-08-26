@@ -6,7 +6,7 @@ README EXEMPLO
 
 - ### Detalhes do comando
 
- 1. git init--> **comando para inoiciar o repositório local e criar a pasta .git**
+ 1. git init--> **comando para iniciar o repositório local e criar a pasta .git**
  1. git status--> **comando para checar alterações pendentes**
  1. git add .--> **coamando para adicionar alterações realizadas**
  1. git commit -m "descricao da versao"--> **comando para salvar alterações realizadas**
