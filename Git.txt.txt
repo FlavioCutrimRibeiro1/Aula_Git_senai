@@ -3,3 +3,4 @@ Continuação da aula de git
 Terceira alteração no arquivo Git.txt
 Quarta alteração do arquivo Git.txt
 Criação da branch-teste
+Lembrei do comando: git commit
