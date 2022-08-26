@@ -2,7 +2,7 @@
 Repositório de versões e colaborações
 README EXEMPLO
 
-# **Comando utilizados**
+# **Comandos utilizados**
 
 - ### **Detalhes do comando**
 
