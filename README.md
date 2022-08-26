@@ -2,9 +2,9 @@
 Repositório de versões e colaborações
 README EXEMPLO
 
-# Comando utilizados
+# **Comando utilizados**
 
-- ### Detalhes do comando
+- ### **Detalhes do comando**
 
  1. git init--> **comando para iniciar o repositório local e criar a pasta .git**
  1. git status--> **comando para checar alterações pendentes**
