@@ -4,7 +4,7 @@ README EXEMPLO
 
 # **Comandos utilizados**
 
-- ### **Detalhes do comando**
+- ### **Detalhes dos comandos**
 
  1. git init--> **comando para iniciar o repositório local e criar a pasta .git**
  1. git status--> **comando para checar alterações pendentes**
